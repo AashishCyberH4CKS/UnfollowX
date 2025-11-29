@@ -1,6 +1,7 @@
 # 🐳 UnfollowX - Instagram Non-Followers Manager
-<img width="1463" height="781" alt="Screenshot 2025-11-29 173530" src="https://github.com/user-attachments/assets/efda61be-8de3-4d0f-a43c-5c280fe8cf2d" />
-<img width="1448" height="837" alt="Screenshot 2025-11-29 173758" src="https://github.com/user-attachments/assets/4c5194bc-a8e5-47a1-899f-e7a4e2c23c47" />
+<img width="1463" height="781" alt="Screenshot 2025-11-29 173530" src="https://github.com/user-attachments/assets/c96c8ca9-6abb-46e3-ad11-5d76cab6e164" />
+<img width="1448" height="837" alt="Screenshot 2025-11-29 173758" src="https://github.com/user-attachments/assets/0b93a6b1-c43b-469d-a540-dac9dcb17d20" />
+
 
 UnfollowX is a **professional Instagram account management automation tool** that helps you analyze your social connections by fetching:
 
@@ -135,6 +136,7 @@ Instagram may ban, restrict, or disable accounts that use aggressive automation.
 If you like this project, give it a ⭐ on GitHub and follow for more awesome tools!
 
 **Created by : AashishCyberH4CKS** 🐳💻
+
 
 
 
