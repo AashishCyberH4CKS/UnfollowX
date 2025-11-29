@@ -1,0 +1,6 @@
+instagrapi
+requests
+httpx
+pydantic
+pillow
+pycryptodomex
